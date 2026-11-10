@@ -1,0 +1,26 @@
+Bienvenido a Peluquería Brillo Estelar ✨
+
+Servicios disponibles:
+
+- Corte de cabello: 15 €
+- Corte infantil (menores de 12 años): 10 €
+- Tinte básico: 25 €
+- Tinte premium: 40 €
+- Mechas: 45 €
+- Peinado: 20 €
+- Lavado y secado: 10 €
+- Tratamiento capilar (hidratación o keratina): 30 €
+- Barbería (afeitado y recorte de barba): 18 €
+
+Horario de atención:
+- Lunes a viernes: 9:00 - 19:00
+- Sábado: 9:00 - 15:00
+- Domingo: cerrado
+
+Otra información:
+- No se necesita cita previa, pero los sábados puede haber espera.
+- Formas de pago: efectivo, tarjeta y Bizum.
+- Dirección: Calle de la Estrella, 12, Barcelona.
+- Teléfono: 931 234 567
+
+¡Te esperamos!

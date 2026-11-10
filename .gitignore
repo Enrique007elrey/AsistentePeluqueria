@@ -1,0 +1,8 @@
+# Fichero con la API Key: NUNCA se sube al repositorio
+.env
+
+# Entorno virtual y cachés de Python
+venv/
+.venv/
+__pycache__/
+*.pyc
